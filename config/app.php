@@ -106,6 +106,8 @@ return [
         'no' => 'Norwegian',
         'pt' => 'Portuguese',
         'sr' => 'Serbian',
+        'zh_CN' => 'Chinese (Simplified)',
+        'zh_TW' => 'Chinese (Traditional)',
     ],
 
     'rtl_locales' => [
